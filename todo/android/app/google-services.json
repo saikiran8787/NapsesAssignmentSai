@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742735720408",
+    "project_id": "careti-c4748",
+    "storage_bucket": "careti-c4748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742735720408:android:bbc453a15d37dda270ccad",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742735720408-8np96cu0ggo2ctb2oh8df73ir5ehru3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD16oTLW0uoJS3NdH3ovnWUOYekG7d90dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742735720408-8np96cu0ggo2ctb2oh8df73ir5ehru3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
